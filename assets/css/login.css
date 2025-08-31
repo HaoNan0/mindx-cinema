@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Arial Narrow', Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.Username {
+    padding: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.Email {
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.Password {
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.Create_an_account {
+    margin-top: 15px;
+} 
